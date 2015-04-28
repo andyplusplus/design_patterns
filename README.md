@@ -1,2 +1,2 @@
 # design_patterns
-Implement Design Patterns in Different Languages
+Implement Design Patterns in Different Programming Languages
