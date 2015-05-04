@@ -4,12 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace gof
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
+namespace B6_Memento_TODO {
+    class Program {
+        static void Main1(string[] args) {
         }
     }
 }
